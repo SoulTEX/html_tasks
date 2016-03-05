@@ -1,6 +1,5 @@
 body
 {   
-    text-align:center;
 	background-image:url('image.jpg');
 	color: #ffffff;
 }
@@ -25,5 +24,22 @@ body
 }
 img
 {
-  width:25%
+  float:left;
+  width:100px;
+  height:100px;
+  border: 1px solid #000000;
+  border-radius: 50%;
+}
+h1
+{
+ text-align:center;
+}
+.img_div
+{
+ text-align:center;
+ width:60%;
+ margin: ;
+ background: rgba(0 , 0 , 0 , 0.7);
+ padding:20px
+ 
 }
