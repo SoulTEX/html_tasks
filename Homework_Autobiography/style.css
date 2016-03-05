@@ -8,17 +8,14 @@ table
 td
  {
   border: 1px solid #000000;	
-	
  }
  h1
  {
   text-align: center;	
-	
  }
  h3
  {
-  text-align: center;
-	 
+  text-align: center;	 
  }
  img
  {
@@ -26,5 +23,4 @@ td
   margin:  10px;
   padding: 10 px;
   width: 15%; 
-  
  }
