@@ -1,11 +1,25 @@
 body
-{
+{   
+    text-align:center;
 	background-image:url('image.jpg');
 	color: #ffffff;
 }
-.division
+.header_division
 {
- border: 1px solid #aaaaaa;
- background: rgba(30 , 0 , 0 , 0.7);
- padding: 5px;
+  width:60%;
+  border: 1px solid #aaaaaa;
+  background: rgba(30 , 0 , 0 , 0.7);
+  padding: 5px;
+  border-radius:10em  10em 0 0;
+  margin: 0px  auto;
+}
+.main_division
+{
+  width:60%;
+  border: 1px solid #aaaaaa;
+  background: rgba(30 , 0 , 0 , 0.7);
+  padding: 5px;
+  margin: 0px  auto;
+  margin-top: 10px;
+  height:600px;
 }
