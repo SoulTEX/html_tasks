@@ -1,0 +1,109 @@
+body
+{
+  color:#dddddd;
+  padding:0px auto;
+  margin:0px auto;
+  background-image: url('bg.jpg');
+}
+ h1
+ {
+  text-align: center;	
+ }
+ h3
+ {
+  text-align: center;	 
+ }
+ img
+ { 
+  width:256px;
+  float:right;
+ }
+ .header_div
+ {
+  margin: 0px  auto;
+  border: 1px solid rgba(158,24,0,1);
+  width: 95%;
+  border-radius:0 0 10em 10em;
+  background: rgba(30 , 50 , 0 , 1);
+  background: rgba(158,24,0,1);
+  background: -moz-linear-gradient(top, rgba(158,24,0,1) 0%, rgba(177,25,2,1) 50%, rgba(143,17,0,1) 51%, rgba(143,17,0,1) 71%, rgba(143,16,4,1) 100%);
+  background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(158,24,0,1)), color-stop(50%, rgba(177,25,2,1)), color-stop(51%, rgba(143,17,0,1)), color-stop(71%, rgba(143,17,0,1)), color-stop(100%, rgba(143,16,4,1)));
+  background: -webkit-linear-gradient(top, rgba(158,24,0,1) 0%, rgba(177,25,2,1) 50%, rgba(143,17,0,1) 51%, rgba(143,17,0,1) 71%, rgba(143,16,4,1) 100%);
+  background: -o-linear-gradient(top, rgba(158,24,0,1) 0%, rgba(177,25,2,1) 50%, rgba(143,17,0,1) 51%, rgba(143,17,0,1) 71%, rgba(143,16,4,1) 100%);
+  background: -ms-linear-gradient(top, rgba(158,24,0,1) 0%, rgba(177,25,2,1) 50%, rgba(143,17,0,1) 51%, rgba(143,17,0,1) 71%, rgba(143,16,4,1) 100%);
+  background: linear-gradient(to bottom, rgba(158,24,0,1) 0%, rgba(177,25,2,1) 50%, rgba(143,17,0,1) 51%, rgba(143,17,0,1) 71%, rgba(143,16,4,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#9e1800', endColorstr='#8f1004', GradientType=0 );
+ }
+ .personal_div
+ {
+  
+  margin-top:10px;	  
+  border: 5px inset rgba(30 , 0 , 0 , 0.8);
+  padding-top:5px;
+  padding-bottom:75px;
+  padding-left:0px;
+  padding-right:5px;
+  background: rgba(50 , 0 , 0 , 0.8);
+  width:85%;
+  margin:0px auto;
+ }
+ .skills_div
+ {
+  margin-bottom:10px;
+  margin-top:10px;	
+  text-align:center;
+  border: 5px inset rgba(30 , 0 , 0 , 0.8);
+  padding:5px;
+  background: rgba(50 , 0 , 0 , 0.8);
+  width:85%;
+  margin:0px auto; 
+ }
+ .work_div
+ {
+  margin-bottom:10px;
+  margin-top:10px;	
+  text-align:center;
+  border: 5px inset rgba(30 , 0 , 0 , 0.8);
+  padding:5px;
+  background: rgba(50 , 0 , 0 , 0.8);
+  width:85%;
+  margin:0px auto;  
+ }
+ .autobiography_div
+ {
+  margin-top:10px;		 
+  text-align:center;
+  border: 5px inset rgba(30 , 0 , 0 , 0.8);
+  padding:5px;
+  background: rgba(50 , 0 , 0 , 0.8);
+  width:85%;
+  margin:0px auto;  
+ }
+ .h3_div
+ {
+  margin-top:10px;
+  text-align:center;
+  border: 1px none;
+  border-radius:40px 40px 40px 40px ;
+  padding:5px;
+  background: rgba(200 , 200 , 200 , 0.8);
+  width:50%;
+  margin-left:auto;
+  margin-right:auto;  
+  margin-bottom:10px;
+  color:#000000;  
+ }
+ .main_div
+ {	 
+  text-align:center;
+  border: 1px none;
+  background: rgba(10 , 0 , 0 , 0.8);
+  width:85%;
+  margin:0px auto;  
+  padding-bottom:30px;
+  border-radius:0 0 40px 40px;
+  padding-top:10px;
+  
+ }
+ 
+ 
